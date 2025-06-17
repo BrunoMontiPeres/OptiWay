@@ -63,7 +63,7 @@ Sprint | Previsão | Status| Histórico|
 |Sprint 1 | 04/04/2025| Concluída | [Ver Relatório]() |
 |Sprint 2| 09/05/2025| Concluída |[Ver Relatório]() |
 |Sprint 3| 30/05/2025|Concluída |[Ver Relatório]() | 
-|Feira de Soluções| 29/05/2025| A fazer | [Ver Relatório]() |
+|Feira de Soluções| 17/06/2025| A fazer | [Ver Relatório]() |
 
 # MVPs
 
